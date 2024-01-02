@@ -31,8 +31,7 @@
 
 ## Output:
 ![Screenshot 2023-11-22 091616](https://github.com/Vinishofficial/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/146931793/0ee7aeac-095e-4cb2-a38a-6272255a7a99)
-
-![Screenshot 2023-11-22 091828](https://github.com/Vinishofficial/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/146931793/d59d1cca-9326-47c6-941e-9234b9d53d5a)
+![Screenshot 2024-01-02 191849](https://github.com/Vinishofficial/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/146931793/5b7668e2-9baf-4e69-b65e-706b87b4837c)
 
 
 
